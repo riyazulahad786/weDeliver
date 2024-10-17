@@ -27,6 +27,7 @@ function Home() {
              <button className="order_btn">Order Now <FaLongArrowAltRight/></button>
              {/* <img src={bannerImage} className="mt-3small_img img-fluid"/> */}
           </div>
+          
         </div>
         {/* right */}
         <div className="image_section">
